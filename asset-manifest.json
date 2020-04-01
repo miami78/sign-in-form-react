@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sign-in-form-react/static/css/main.cee68987.chunk.css",
+    "main.js": "/sign-in-form-react/static/js/main.270e416a.chunk.js",
+    "main.js.map": "/sign-in-form-react/static/js/main.270e416a.chunk.js.map",
+    "runtime-main.js": "/sign-in-form-react/static/js/runtime-main.188dc139.js",
+    "runtime-main.js.map": "/sign-in-form-react/static/js/runtime-main.188dc139.js.map",
+    "static/js/2.6b349be3.chunk.js": "/sign-in-form-react/static/js/2.6b349be3.chunk.js",
+    "static/js/2.6b349be3.chunk.js.map": "/sign-in-form-react/static/js/2.6b349be3.chunk.js.map",
+    "index.html": "/sign-in-form-react/index.html",
+    "precache-manifest.9df25e2f3862b4cbbf18eae7c5ef9b46.js": "/sign-in-form-react/precache-manifest.9df25e2f3862b4cbbf18eae7c5ef9b46.js",
+    "service-worker.js": "/sign-in-form-react/service-worker.js",
+    "static/css/main.cee68987.chunk.css.map": "/sign-in-form-react/static/css/main.cee68987.chunk.css.map",
+    "static/js/2.6b349be3.chunk.js.LICENSE.txt": "/sign-in-form-react/static/js/2.6b349be3.chunk.js.LICENSE.txt",
+    "static/media/logo.5d5d9eef.svg": "/sign-in-form-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.188dc139.js",
+    "static/js/2.6b349be3.chunk.js",
+    "static/css/main.cee68987.chunk.css",
+    "static/js/main.270e416a.chunk.js"
+  ]
+}
